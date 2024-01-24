@@ -1,5 +1,6 @@
- import java.util.Scanner;
-public class Findlargestnumber {
+import java.util.Scanner;
+
+public class FindLargestNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -33,4 +34,3 @@ public class Findlargestnumber {
         }
     }
 }
-
